@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1496144813 source:/home/mivsher/PLuses/Clock/main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<unistd.h>
+
